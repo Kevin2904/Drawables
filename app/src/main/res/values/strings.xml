@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">GetYourTour</string>
+
+    <string name="Explorador">Explorador</string>
+    <string name="Usuario">Perfil</string>
+    <string name="Notificaciones">Avisos</string>
+    <string name="Favoritos">Favoritos</string>
+    <string name="Carrito">Carrito</string>
+    <string name="InicioSesion">Iniciar sesión</string>
+    <string name="go_registro">Regístrate</string>
+    <string name="SinCuenta">¿Todavía no tienes una cuenta?</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="crear_clave">Crear contraseña</string>
+    <string name="identificacion">Identificación</string>
+    <string name="pais">País</string>
+    <string name="make_registro">Registrarse</string>
+    <string name="register_title">Registro</string>
+    <string name="fecha_cumplea_os">Fecha de nacimiento</string>
+    <string name="Ingreso_contrasena">Ingrese su contraseña</string>
+    <string name="login_title">Inicio de Sesión</string>
+    <string name="confirmar_contrase_a">Confirmar contraseña</string>
+    <string name="destino">¿A dónde quieres ir?</string>
+    <string name="salida">Salida</string>
+    <string name="regreso">Regreso</string>
+    <string name="invalid_password">"La contraseña debe tener al menos:\n -8 carácteres.\n -Una mayúscula y una minúscula.\n -Un número y un carácter especial."</string>
+    <string name="different_password">Las contraseñas no coinciden</string>
+    <string name="login_password">Formato de contraseña inválido</string>
+    <string name="login_email">Ingrese un correo válido</string>
+    <string name="invalid_id">Ingrese una identificación válida</string>
+    <string name="already_exist">Este usuario ya existe</string>
+    <string name="bad_login">El usuario no existe</string>
+    <string name="successful_register">Registro exitoso</string>
+    <string name="ya_tienes_una_cuenta">¿Ya tienes una cuenta?</string>
+    <string name="buscar">Buscar</string>
+    <string name="salir_sesion">¿Desea salir de la sesión?</string>
+    <string name="salir">Salir</string>
+    <string name="bienvenida">Bienvenido(a)</string>
+    <string name="Jack">Jack Torrance, hotel Overlook, Colorado</string>
+    <string name="lista_de_niveles">Lista de niveles</string>
+    <string name="siguiente_nivel">Siguiente nivel</string>
+    <string name="nine_patch">Nine-patch</string>
+    <string name="lista_de_capas">Lista de capas</string>
+    <string name="formas">Formas, imágenes y lista de estados</string>
+</resources>

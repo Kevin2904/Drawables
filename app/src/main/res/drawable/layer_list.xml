@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"> (elemento raíz
+    <item android:drawable="@drawable/circle"/>
+    <item android:drawable="@drawable/down_arrow"/>
+    <item android:drawable="@drawable/up_arrow"/>
+</layer-list>
